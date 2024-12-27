@@ -27,5 +27,5 @@ Hi, My name is Mustafa Agamy ![](https://user-images.githubusercontent.com/18350
 <p align="left">
 <a href="https://www.facebook.com/Mostafa.Ahmed.Agamy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a href="https://www.github.com/MustafaAgamy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="[https://www.linkedin.com/in/MohabMohie](https://www.linkedin.com/in/mostafa-agamy-778709162/)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://www.linkedin.com/in/mostafa-agamy-778709162/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/@MostafaAgamy-tm4sv" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
